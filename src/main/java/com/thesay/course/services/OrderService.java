@@ -2,7 +2,6 @@ package com.thesay.course.services;
 
 import com.thesay.course.entity.Order;
 import com.thesay.course.repositories.OrderRepository;
-import com.thesay.course.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
